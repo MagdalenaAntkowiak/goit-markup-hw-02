@@ -66,7 +66,7 @@ a {
   font-size: 44px;
   font-weight: 900;
   line-height: 1.36;
-  color: #ffffff;
+  color: var(--font-color3);
   background-color: #2f303a;
 }
 .type {
